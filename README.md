@@ -1,9 +1,11 @@
 # UIDeviceHelper
 
-An actual UIDeviceHelper for iOS projects.
+An actual UIDeviceHelper for iOS projects. **2019**
 
 # Supported Devices 
 
+* iPhone1
+* ... 
 * iPhone8 
 * iPhone8Plus 
 * iPhoneX
