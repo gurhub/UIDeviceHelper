@@ -5,7 +5,7 @@
 //  Copyright © 2019. All rights reserved.
 //
 
-#include <sys/socket.h>  // Per msqr
+#include <sys/socket.h>
 #include <sys/sysctl.h>
 #include <net/if.h>
 #include <net/if_dl.h>
